@@ -1,2 +1,1 @@
-# jupyter-training
-Introduction to Jupyter Notebook
+# DEN_formation_Jupyter
